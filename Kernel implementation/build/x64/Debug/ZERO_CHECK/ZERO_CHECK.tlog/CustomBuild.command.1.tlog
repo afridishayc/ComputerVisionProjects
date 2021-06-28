@@ -1,0 +1,10 @@
+^C:\USERS\AFRID\DESKTOP\CS5330\BUILD\CMAKEFILES\FEE8718FB37B3BD3391472F8D41EE5D1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/afrid/Desktop/CS5330 -BC:/Users/afrid/Desktop/CS5330/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/afrid/Desktop/CS5330/build/CS5330.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

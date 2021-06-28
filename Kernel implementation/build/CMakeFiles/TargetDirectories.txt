@@ -1,0 +1,4 @@
+C:/Users/afrid/Desktop/CS5330/build/CMakeFiles/CS5330.dir
+C:/Users/afrid/Desktop/CS5330/build/CMakeFiles/PACKAGE.dir
+C:/Users/afrid/Desktop/CS5330/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/afrid/Desktop/CS5330/build/CMakeFiles/ZERO_CHECK.dir

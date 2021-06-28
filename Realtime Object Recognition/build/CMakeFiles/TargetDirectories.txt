@@ -1,0 +1,4 @@
+C:/Users/afrid/Desktop/2drecog/build/CMakeFiles/2drecog.dir
+C:/Users/afrid/Desktop/2drecog/build/CMakeFiles/PACKAGE.dir
+C:/Users/afrid/Desktop/2drecog/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/afrid/Desktop/2drecog/build/CMakeFiles/ZERO_CHECK.dir

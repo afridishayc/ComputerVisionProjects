@@ -1,0 +1,4 @@
+C:/Users/afrid/Desktop/AugmentedReality/build/CMakeFiles/AugmentedReality.dir
+C:/Users/afrid/Desktop/AugmentedReality/build/CMakeFiles/PACKAGE.dir
+C:/Users/afrid/Desktop/AugmentedReality/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/afrid/Desktop/AugmentedReality/build/CMakeFiles/ZERO_CHECK.dir

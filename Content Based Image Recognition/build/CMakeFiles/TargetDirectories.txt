@@ -1,0 +1,4 @@
+C:/Users/afrid/Desktop/CBIR/build/CMakeFiles/PACKAGE.dir
+C:/Users/afrid/Desktop/CBIR/build/CMakeFiles/CBIR.dir
+C:/Users/afrid/Desktop/CBIR/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/afrid/Desktop/CBIR/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\AFRID\DESKTOP\AUGMENTEDREALITY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/afrid/Desktop/AugmentedReality -BC:/Users/afrid/Desktop/AugmentedReality/build --check-stamp-file C:/Users/afrid/Desktop/AugmentedReality/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

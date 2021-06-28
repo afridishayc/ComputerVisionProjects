@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\afrid\Desktop\2drecog\build\CMakeFiles\1e64f25a3266c6288444058775f7a36b\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\afrid\Desktop\2drecog\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\afrid\Desktop\2drecog\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9FF17807-9D2F-37F4-91B0-31B8AE2CDBFA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

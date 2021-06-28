@@ -1,0 +1,10 @@
+^C:\USERS\AFRID\DESKTOP\CS5330\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/afrid/Desktop/CS5330 -BC:/Users/afrid/Desktop/CS5330/build --check-stamp-file C:/Users/afrid/Desktop/CS5330/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
